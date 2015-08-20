@@ -1,0 +1,22 @@
+{
+  "name": "gulp-frontend-template",
+  "version": "0.1.0",
+  "homepage": "",
+  "authors": "Pan Pan Cheng <p2cheng0331@gmail.com>",
+  "description": "",
+  "keywords": [
+    "gulp",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.4.0"
+  }
+}
